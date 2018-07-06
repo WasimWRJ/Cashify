@@ -1,0 +1,50 @@
+.h-top-right{
+    background: #fff;
+    border-bottom: 1px solid #e3e3e3;
+    padding: 0 100px;
+}
+.h-top-right a, .menu li a{
+    color: #000;
+    display: block;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.h-top-right a i{
+    margin-left: 5px;
+    font-size: 18px;
+}
+.head-bottom{
+    padding: 10px 100px;
+    background: #fff; 
+}
+.search-wrap {
+    margin: 8px 0 0 100px;
+    width: 25%;
+}
+.search-wrap .form-control{
+    height: 48px;
+    border-radius: 0;
+    border:1px solid #e0e0e0;
+    color: #333;
+    box-shadow: none;
+    font-size: 13px;
+    padding-left: 43px;
+}
+.search-wrap:before {
+    position: absolute;
+    content: "\f002";
+    width: 40px;
+    height: 48px;
+    left: 0;
+    top: 0;
+    color: #8e8e8e;
+    font-size: 14px;
+    line-height: 48px;
+    font-family: FontAwesome;
+    text-align: center;
+}
+.menu li a {
+    margin: 10px 0 0;
+    letter-spacing: 0.2px;
+}
