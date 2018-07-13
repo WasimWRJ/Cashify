@@ -44,7 +44,7 @@ $(".cou-mer-head p").click(function(){
 });
 
 /********* Sliders ************/	
-$('.banner-slider').owlCarousel({
+$('.baner-slider').owlCarousel({
 	  loop:true,
 	  items:1,
 	  nav:false,

@@ -30,6 +30,9 @@ ul, li{
 .mr-5{
     margin-right: 5px;
 }
+.ml-5{
+  margin-left: 5px;
+}
 .back-img{
   background-position:center;
   background-repeat:no-repeat;
@@ -43,4 +46,18 @@ ul, li{
 	left: 0;
 	top: 0;
 	background: rgba(0,0,0,0.8);
+}
+.bg-grey{
+  background: #f2f2f2;
+}
+.bg-gradient{
+  background: linear-gradient(140deg,#4cb8c4 0,#3cd3ad 54%,#3cd3ad 100%);
+  background-color: #4cb8c4;
+}
+section {
+  padding: 40px 0;
+}
+.comm-head {
+  text-align: center;
+  margin: 0 0 25px;
 }
