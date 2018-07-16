@@ -1,0 +1,19 @@
+footer{
+    background: #000;
+    color: #fff;
+    padding:30px 0; 
+}
+.foot-menu {
+    margin: 0 0 20px;
+    color: #757575;
+    font-size: 20px;
+}
+.fot-data li {
+    margin: 0 0 5px;
+}
+.fot-data li a{
+    color: #fff;
+}
+.fot-data img {
+    margin: 0 0 20px;
+}
